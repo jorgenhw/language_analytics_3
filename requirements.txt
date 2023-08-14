@@ -1,0 +1,5 @@
+tensorflow-macos==2.12.0 # this version is for macos - change this to tensorflow if you are using linux or windows
+numpy==1.23.5
+tqdm==4.65.0
+pandas==2.0.0
+matplotlib
